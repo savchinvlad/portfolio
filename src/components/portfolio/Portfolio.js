@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default function Portfolio() {
-  return <div>Portfolio</div>;
+  return <section id="portfolio">Portfolio</section>;
 }
