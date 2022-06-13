@@ -1,6 +1,7 @@
 import './App.css';
 import {
   About,
+  Contact,
   Experience,
   Footer,
   Header,
@@ -20,6 +21,7 @@ function App() {
       <Services />
       <Portfolio />
       <Testimonials />
+      <Contact />
       <Footer />
     </div>
   );
